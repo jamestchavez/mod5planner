@@ -23,3 +23,5 @@ Acceptance Criteria
 - THEN the text for that event is saved in local storage
 - WHEN I refresh the page
 - THEN the saved events persist
+
+![image](https://user-images.githubusercontent.com/103382524/172080996-79a05213-7647-43d9-9526-5d526bcb3215.png)
